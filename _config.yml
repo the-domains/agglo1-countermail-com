@@ -1,0 +1,28 @@
+name: agglo1@countermail.com
+favicon: null
+layout_spectrum: 0.22926180786453187
+typography_spectrum: 0.4884099713526666
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9749397491104901
+  lightness: 0.11883190367370844
+  saturation: 0.5962557916063815
+  rhythmicContrast: 0.46420744620263577
+purpose: []
